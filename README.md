@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tanuki mobile app**
 
-- 🌱 I’m currently learning **C#, C++, JS, NodeJS**
+- 🌱 I’m currently learning **C#, C++, JS, NodeJS, Vue, Nuxt**
 
 - 🚫 Took a break from developing on Rails for now. I'm trying my hand at Vue.
 
