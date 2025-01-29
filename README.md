@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, NodeJS, Nuxt, PHP, C#**
 
-- ❗ I **don't** write in Rails and Ruby anymore.
+- ❗ I **don't** write in Rails and Ruby anymore, I'm switching to Nuxt. However, I still enjoy writing in PHP.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
