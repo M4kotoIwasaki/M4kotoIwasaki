@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **JS, NodeJS, Nuxt, PHP, C#**
 
+- ❗ I **don't** write in Rails and Ruby anymore.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
