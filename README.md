@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **JS, NodeJS, Nuxt, PHP, C#**
+- 🌱 I’m currently learning **JS, NodeJS, Nuxt, PHP, C#, Java**
 
 - ❗ I **don't** write in Rails and Ruby anymore, I'm switching to Nuxt. However, I still enjoy writing in PHP.
 
